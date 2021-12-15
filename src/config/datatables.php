@@ -1,6 +1,7 @@
 <?php
 
 return [
+    "max_records_per_page" => 100,
     /*
      * DataTables search options.
      */
